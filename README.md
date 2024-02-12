@@ -1,5 +1,5 @@
 # Terraform AWS Infrastructure Project
-![Pods in Kubernetes](https://github.com/DeoreRohit4/Terraform_AWS_Project/assets/102886808/5ba8ce7a-9002-42fb-8555-3fd569dc2422)
+![terraform](https://github.com/DeoreRohit4/Terraform_AWS_Project/assets/102886808/5ba8ce7a-9002-42fb-8555-3fd569dc2422)
 
 ## Overview
 
